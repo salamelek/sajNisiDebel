@@ -14,5 +14,9 @@
       "48": "/images/CATTT.png",
       "128": "/images/CATTT.png"
     }
-  }
+  },
+  "content_scripts": [{
+    "matches": ["https://okusno.je/recept/*"],
+    "js": ["main.js"]
+  }]
 }

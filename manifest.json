@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Saj nisi debel!",
+  "description": "Debel?? Sploh ne! V par klikih boš kos današnjim visokim standardom!",
+  "version": "1.0",
+  "icons": {
+    "16": "/images/CATTT.png",
+    "48": "/images/CATTT.png",
+    "128": "/images/CATTT.png"
+  },
+  "page_action": {
+    "default_icon": {
+      "16": "/images/CATTT.png",
+      "48": "/images/CATTT.png",
+      "128": "/images/CATTT.png"
+    }
+  }
+}

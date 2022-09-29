@@ -8,12 +8,13 @@
     "48": "/images/4629647297871872.png",
     "128": "/images/4629647297871872.png"
   },
-  "page_action": {
+  "action": {
     "default_icon": {
       "16": "/images/4629647297871872.png",
       "48": "/images/4629647297871872.png",
       "128": "/images/4629647297871872.png"
-    }
+    },
+    "default_popup" : "index.html"
   },
   "content_scripts": [{
     "matches": ["https://okusno.je/recept/*"],

@@ -1,5 +1,6 @@
 let startingLocation = location.href;
 let runningSala = false;
+alert("Dela");
 
 setInterval(() => {
     // Thanks to Kinglisi#0544 (discord) for the help!
